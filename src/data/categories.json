@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1,
+  "name": "Electronics",
+  "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600",
+  "itemCount": 245,
+  "color": "#2196f3"
+ },
+ {
+  "id": 2,
+  "name": "Jewellery",
+  "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600",
+  "itemCount": 180,
+  "color": "#ffc107"
+ },
+ {
+  "id": 3,
+  "name": "Men's Fashion",
+  "image": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?w=600",
+  "itemCount": 320,
+  "color": "#4caf50"
+ },
+ {
+  "id": 4,
+  "name": "Women's Fashion",
+  "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600",
+  "itemCount": 410,
+  "color": "#e91e63"
+ }
+]

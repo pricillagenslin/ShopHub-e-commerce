@@ -1,0 +1,92 @@
+[
+ {
+  "id": 1,
+  "name": "Premium Wireless Headphones",
+  "price": 299.99,
+  "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+  "category": "Electronics",
+  "rating": 4.5,
+  "stock": 12,
+  "description": "Premium Wireless Headphones - quality you can rely on.",
+  "originalPrice": 399.99,
+  "isNew": true,
+  "discount": 25
+ },
+ {
+  "id": 2,
+  "name": "Diamond Necklace Set",
+  "price": 1299.99,
+  "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600",
+  "category": "Jewellery",
+  "rating": 5,
+  "stock": 3,
+  "description": "Diamond Necklace Set - quality you can rely on."
+ },
+ {
+  "id": 3,
+  "name": "Classic Leather Jacket",
+  "price": 189.99,
+  "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=600",
+  "category": "Men's Fashion",
+  "rating": 4.8,
+  "stock": 20,
+  "description": "Classic Leather Jacket - quality you can rely on.",
+  "originalPrice": 249.99,
+  "discount": 24
+ },
+ {
+  "id": 4,
+  "name": "Elegant Summer Dress",
+  "price": 89.99,
+  "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=600",
+  "category": "Women's Fashion",
+  "rating": 4.6,
+  "stock": 0,
+  "description": "Elegant Summer Dress - quality you can rely on.",
+  "isNew": true
+ },
+ {
+  "id": 5,
+  "name": "Smart Watch Pro",
+  "price": 449.99,
+  "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+  "category": "Electronics",
+  "rating": 4.7,
+  "stock": 8,
+  "description": "Smart Watch Pro - quality you can rely on.",
+  "originalPrice": 549.99,
+  "discount": 18
+ },
+ {
+  "id": 6,
+  "name": "Gold Bracelet",
+  "price": 599.99,
+  "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=600",
+  "category": "Jewellery",
+  "rating": 4.9,
+  "stock": 5,
+  "description": "Gold Bracelet - quality you can rely on."
+ },
+ {
+  "id": 7,
+  "name": "Casual Denim Shirt",
+  "price": 59.99,
+  "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600",
+  "category": "Men's Fashion",
+  "rating": 4.4,
+  "stock": 30,
+  "description": "Casual Denim Shirt - quality you can rely on."
+ },
+ {
+  "id": 8,
+  "name": "Designer Handbag",
+  "price": 349.99,
+  "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600",
+  "category": "Women's Fashion",
+  "rating": 4.8,
+  "stock": 6,
+  "description": "Designer Handbag - quality you can rely on.",
+  "originalPrice": 499.99,
+  "discount": 30
+ }
+]
